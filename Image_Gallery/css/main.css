@@ -42,7 +42,7 @@ header #clear
     text-decoration: none;
     margin: 0 10px;
 }
-header #clear :hover{
+header #clear:hover{
     color: blue;
 }
 /* Main Style*/
